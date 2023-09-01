@@ -11,3 +11,8 @@
 .font-size {
     font-size: 24px;
 }
+
+.color {
+    background-color: #7aee7a;
+    font-weight: bold;
+}
